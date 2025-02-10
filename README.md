@@ -1,2 +1,2 @@
 # Website - Clinica Medica
-Meu primeiro site desenvolvido durante meu segundo semestre de Análise e Desenvolvimento de Sistemas.
+Meu primeiro site desenvolvido durante o 2º semestre do curso Análise e Desenvolvimento de Sistemas.
